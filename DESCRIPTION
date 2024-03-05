@@ -1,21 +1,16 @@
 Package: colorRamps
 Type: Package
 Title: Builds Color Tables
-Version: 2.3.2
-Date: 2024-03-03
-Authors@R: c(person("Tim", "Keitt", role = c("aut", "cre"),
-                     email = "tkeitt@gmail.com"),
-             person("CRAN Team", role = 'ctb',
-                     email = "CRAN@r-project.org",
-                     comment = "corrections since 2022"))
+Version: 2.3.3
+Date: 2023-03-05
+Authors@R: c(
+    person("Tim","Keitt", role = c("aut"), 
+      email="tkeitt@gmail.com", comment = c(ORCID = "0000-0002-4587-1083")),
+    person("CRAN Team", role = 'ctb', 
+      email = "CRAN@r-project.org", comment = "corrections since 2022"),
+    person("Gregory","Jefferis", role = c("ctb", "cre"), 
+      email="jefferis@gmail.com", comment = c(ORCID = "0000-0002-0587-9355"))
+    )
 Description: Builds gradient color maps.
 License: GPL
 NeedsCompilation: no
-Packaged: 2024-03-03 14:19:12 UTC; ripley
-Author: Tim Keitt [aut, cre],
-  CRAN Team [ctb] (corrections since 2022)
-Maintainer: ORPHANED
-X-CRAN-Original-Maintainer: Tim Keitt <tkeitt@gmail.com>
-X-CRAN-Comment: Orphaned on 2024-03-04
-Repository: CRAN
-Date/Publication: 2024-03-04 13:02:14 UTC
