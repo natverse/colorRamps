@@ -1,8 +1,8 @@
 Package: colorRamps
 Type: Package
 Title: Builds Color Tables
-Version: 2.3.3
-Date: 2023-03-05
+Version: 2.3.4
+Date: 2024-03-05
 Authors@R: c(
     person("Tim","Keitt", role = c("aut"), 
       email="tkeitt@gmail.com", comment = c(ORCID = "0000-0002-4587-1083")),
