@@ -1,8 +1,9 @@
-## colorRamps 2.3.3
+## colorRamps 2.3.4
 
 * This versions adds a new maintainer as the package had been orphaned. The
 previous maintainer tkeitt@gmail.com has confirmed that he is happy for me to
 take over.
+* It also corrects the package date from the failed 2.3.3 submission
 
 ## R CMD check results
 
@@ -12,9 +13,13 @@ The package has been checked locally with R 4.3.2 running on MacOSX:
 
 The package has been checked with the winbuilder service against r-devel.
 
-https://win-builder.r-project.org/H0VbR1alhxPJ
+https://win-builder.r-project.org/54988dlnD7lT/00check.log
 
 The note pertains to the maintainer status.
+
+Maintainer: 'Gregory Jefferis <jefferis@gmail.com>'
+
+Days since last update: 2
 
 New maintainer:
   Gregory Jefferis <jefferis@gmail.com>
